@@ -944,24 +944,18 @@
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
-			<key>MaxBIOSVersion</key>
-			<false/>
 			<key>MLB</key>
-			<string>C02024609J9LNV9FB</string>
-			<key>ProcessorType</key>
-			<integer>0</integer>
+			<string>C02944102J9KGQGFB</string>
 			<key>ROM</key>
-			<data></data>
+			<data>BnA4xSnD</data>
 			<key>SpoofVendor</key>
 			<true/>
-			<key>SystemMemoryStatus</key>
-			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac19,1</string>
+			<string>iMac19,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CV0KDJV3Q</string>
+			<string>C02ZM1YEJWDW</string>
 			<key>SystemUUID</key>
-			<string>ADC77FEA-C3D9-4D6E-89EE-3A5206C33651</string>
+			<string>0BA9C2E0-73FA-45A0-816A-8856F7C529C3</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
