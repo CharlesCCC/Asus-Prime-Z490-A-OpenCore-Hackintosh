@@ -12,7 +12,7 @@ Asus Prime Z490-A-OpenCore-Hackintosh
 
 **What Work** 
 * All iServices(iCloud/iMessage etc.) 
-* Audio via 3.5mm port 
+* Audio via 3.5mm port and HDMI/DisplayPort 
 * Bluetooth/Wireless
 * GPU Acceleration/Encode/Decode HVEC 
 * DRM (watch AppleTV+/Amazon Prime/Netflix) 
