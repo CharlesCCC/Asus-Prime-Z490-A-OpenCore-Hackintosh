@@ -18,7 +18,7 @@ Asus Prime Z490-A-OpenCore-Hackintosh
 * DRM (watch AppleTV+/Amazon Prime/Netflix) 
 
 **What Not Work** 
-* Nothing I can think of at the moment; 
+* laggy Apple MagicTrackpad 2 (Connecting directly with USB seems fine? Any help will highly appreciated.)
 
 **Change log** 
 
