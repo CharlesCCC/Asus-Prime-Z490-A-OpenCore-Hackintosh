@@ -8,7 +8,7 @@ Asus Prime Z490-A-OpenCore-Hackintosh
 * 64G (3600 G.Skill RAM)
 * 1TB S11 Pro NVME SSD (boot drive)
 * 1TB Sandisk SATA SSD (Data)
-* BCM4360CS2 Wireless Card (Work OBO) + M2.Adapter [Really cheap combination]
+* BCM43602CS Wireless Card (Work OBO) + M2.Adapter [Relative cheaper combination]
 
 **What Work** 
 * All iServices(iCloud/iMessage etc.) 
@@ -18,7 +18,7 @@ Asus Prime Z490-A-OpenCore-Hackintosh
 * DRM (watch AppleTV+/Amazon Prime/Netflix) 
 
 **What Not Work** 
-* laggy Apple MagicTrackpad 2 (Connecting directly with USB seems fine? Any help will highly appreciated.)
+* laggy Apple MagicTrackpad 2 (Connecting directly with USB seems fine? Any help will highly appreciated. Also, it might be an issue with MacOS, as I have seem many real Macbook user have experiened similar issue from varies forums)
 
 **Change log** 
 
