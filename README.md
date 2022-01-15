@@ -5,7 +5,7 @@ Asus Prime Z490-A-OpenCore-Hackintosh
 * [Asus Prime Z490-A](https://amzn.to/3GvvPKj)
 * [i9-10850K](https://amzn.to/3FyxQns) + [NZXT Kraken X73 AIO 360 Cooler ](https://amzn.to/3GuFP6k)
 * [Rx 580 MK2](https://amzn.to/3rnUyK7) 
-* 64G (3600 G.Skill RAM)
+* [64G (G.Skill Ripjaws V Series 3600 CL16 )](https://amzn.to/33vPlaN)
 * [1TB S11 Pro NVME SSD](https://amzn.to/3I3TiT6) (boot drive)
 * [1TB Sandisk SATA SSD](https://amzn.to/3rDMF3t) (Data)
 * [BCM43602CS Wireless Card (Work OBO)](https://amzn.to/3nswFjw) + [M2.Adapter](https://amzn.to/3fqQHX3) [Relative cheaper combination]
