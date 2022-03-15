@@ -2,23 +2,23 @@
 Asus Prime Z490-A-OpenCore-Hackintosh
 
 **Specs** 
-* Asus Prime Z490-A
-* i9-10850K + NZXT Kraken X73 AIO 360 Cooler 
-* Rx 580 MK2 
-* 64G (3600 G.Skill RAM)
-* 1TB S11 Pro NVME SSD (boot drive)
-* 1TB Sandisk SATA SSD (Data)
-* BCM4360CS2 Wireless Card (Work OBO) + M2.Adapter [Really cheap combination]
+* [Asus Prime Z490-A](https://amzn.to/3GvvPKj)
+* [i9-10850K](https://amzn.to/3FyxQns) + [NZXT Kraken X73 AIO 360 Cooler ](https://amzn.to/3GuFP6k)
+* [Rx 580 MK2](https://amzn.to/3rnUyK7) 
+* [64G (G.Skill Ripjaws V Series 3600 CL16 )](https://amzn.to/33vPlaN)
+* [1TB S11 Pro NVME SSD](https://amzn.to/3I3TiT6) (boot drive)
+* [1TB Sandisk SATA SSD](https://amzn.to/3rDMF3t) (Data)
+* [BCM43602CS Wireless Card (Work OBO)](https://amzn.to/3nswFjw) + [M2.Adapter](https://amzn.to/3fqQHX3) [Relative cheaper combination]
 
 **What Work** 
 * All iServices(iCloud/iMessage etc.) 
-* Audio via 3.5mm port 
+* Audio via 3.5mm port and HDMI/DisplayPort 
 * Bluetooth/Wireless
 * GPU Acceleration/Encode/Decode HVEC 
 * DRM (watch AppleTV+/Amazon Prime/Netflix) 
 
 **What Not Work** 
-* laggy Apple MagicTrackpad 2 (Connecting directly with USB seems fine? Any help will highly appreciated.)
+* laggy Apple MagicTrackpad 2 (Connecting directly with USB seems fine? Any help will highly appreciated. Also, it might be an issue with MacOS, as I have seem many real Macbook user have experiened similar issue from varies forums)
 
 **Change log** 
 
