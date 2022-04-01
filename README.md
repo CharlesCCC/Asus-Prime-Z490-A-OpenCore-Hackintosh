@@ -22,9 +22,8 @@ Asus Prime Z490-A-OpenCore-Hackintosh
 
 **Change log** 
 
-2021-3 (Stuck at 12.2.1)
-* Tried update to 12.3 but boot into blackscreen
-* some people mentioned the dk.e1000 flag have caused the issue, potential fix is remove that flag and using PIC property for the ethernet port (waiting to be tested) 
+2021-3-31 (Upgraded to 12.3.1)
+* removed dk.e1000 flag; used the PIC-E device property for the ethernet port;
 
 2021-12
 * Finished update OC to 0.7.6 (Make sure do a NVRAM reset, otherwise the Hackintool might detect the wrong/older version)
