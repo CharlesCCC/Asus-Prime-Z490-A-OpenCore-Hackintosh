@@ -22,7 +22,14 @@ Asus Prime Z490-A-OpenCore-Hackintosh
 
 **Change log** 
 
+2022-8-14
+
+* Updated OpenCore version to 0.8.3 (without tweak the config file); 
+
+
+
 2022-3-31 (Upgraded to 12.3.1)
+
 * removed dk.e1000 flag; used the PIC-E device property for the ethernet port;
 
 2021-12
