@@ -264,9 +264,7 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AwDImw==</data>
-				<key>device-id</key>
-				<data>kj4AAA==</data>
+				<data>BwCbPg==</data>
 				<key>model</key>
 				<string>Intel UHD Graphics 630</string>
 			</dict>
